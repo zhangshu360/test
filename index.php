@@ -2,7 +2,6 @@
 	
 	$a = 123;
 	$b = 456;
-
-	$sum = $a + $b;
 	echo $sum;
+	//this is a good day!
 ?>
