@@ -4,4 +4,5 @@
 	$b = 456;
 
 	$sum = $a + $b;
+	echo $sum;
 ?>
